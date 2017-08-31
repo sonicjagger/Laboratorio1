@@ -1,0 +1,5 @@
+Se tuvo problemas al intentar realizar el push y el pull para poder copiar los documentos
+Por falta de tiempo y cordinacion nuestra, realizamos una idea del repodructor de musica funcional pero ya no lo implementamos con la otra parte principal del proyecto
+
+
+Att. Jose Roma y Javier Motta
